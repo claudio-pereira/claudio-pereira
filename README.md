@@ -10,5 +10,5 @@ Aqui está um breve resumo das minhas principais habilidades:
 - 🛠️ Infraestrutura Ágil com práticas DEVOPS: Possuo conhecimento em ferramentas como Docker, Git, Vagrant, Jenkins, Ansible e Terraform, que são cruciais na prática DEVOPS.
 - 🤝 Liderança Ágil e Inteligência Emocional: Sou um líder orientado para resultados, com habilidades de liderança e inteligência emocional.
 - 📊 Metodologias Ágeis: Estou familiarizado com SCRUM e KANBAN, metodologias ágeis que aceleram o desenvolvimento de projetos.
-- Entre em contato comigo no [LinkedIn] (https://www.linkedin.com/in/claudios-pereira/) ou pelo e-mail claudios.pereira@gmail.com.
+- Entre em contato comigo no LinkedIn: (https://www.linkedin.com/in/claudios-pereira/) ou pelo e-mail: claudios.pereira@gmail.com.
 - Vamos explorar as possibilidades juntos!
